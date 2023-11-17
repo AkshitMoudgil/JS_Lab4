@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://akshitmoudgil.github.io/JS_Lab4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://akshitmoudgil.github.io/JS_Lab4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 400,
@@ -32,6 +32,6 @@
             "Sprinkles",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://akshitmoudgil.github.io/JS_Lab4/images/strawberry-sprinkle.svg"
     }]
 }
