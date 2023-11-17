@@ -33,5 +33,25 @@
             "Vanilla Base"
         ],
         "image": "https://akshitmoudgil.github.io/JS_Lab4/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Mango Cherry",
+        "calories": 380,
+        "type": "ice-cream",
+        "ingredients": [
+            "Mango Syrup",
+            "Cherry Chunks",
+            "Vanilla Base"
+        ],
+        "image": "https://akshitmoudgil.github.io/JS_Lab4/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Butterscotch",
+        "calories": 320,
+        "type": "ice-cream",
+        "ingredients": [
+            "Butterscotch Syrup",
+            "Toffee Bits",
+            "Vanilla Base"
+        ],
+        "image": "https://akshitmoudgil.github.io/JS_Lab4/images/ice-cream-xtra2.svg"
     }]
 }
